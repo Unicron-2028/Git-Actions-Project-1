@@ -119,7 +119,7 @@ jobs:
         context: .
         push: true
         tags: adijaiswal/bankapp:latest
-        file: ./Dockerfil
+        file: ./Dockerfile
     
 
 
